@@ -1,16 +1,3 @@
-### Instructor Information
-
-| Instructor name | Instructor LinkedIn profile | Instructor Github | 
-|-----------------|-----------------------------|--------------------------|
-| Bibek Rauth  | [LinkedIn](https://www.linkedin.com/in/bibek-rauth-007) | [Github](#) | 
-
-### Course Link
-
-| Course Link | Language |
-|-------------|----------|
-| [E-KYC using Computer Vision](https://learnwith.campusx.in/courses/E-KYC-using-Computer-Vision-660db248fb89513f17a7f7af) | Hinglish |
-
-**Note:** This is the free but quality course offered by CampusX.
 
 **Description:**
 This course covers the implementation of electronic Know Your Customer (E-KYC) processes using Computer Vision techniques. Students will learn how to apply computer vision algorithms to verify identity documents, extract information, and streamline the verification process. The course includes hands-on projects and case studies to enhance practical skills in E-KYC using Computer Vision.
@@ -29,11 +16,5 @@ This course covers the implementation of electronic Know Your Customer (E-KYC) p
 - Hands-on Projects
   - Work on real-world projects to implement E-KYC solutions using Computer Vision.
 
-
-### Videos
-| Instructor name  | Link |
-|-----------------|-------------------------|
-| Session 1 - Introduction to Computer Vision |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/LN2qHdok43E?si=qRMFY3-yVj4qguiF)|
-| Session 2 - Introduction to CV Continued... |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/UGD13gRVXUM?si=NF0tSsEbp1kPPgwC)|
 
 
